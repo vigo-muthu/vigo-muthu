@@ -8,7 +8,4 @@ Robotics Engineer focused on:
 - Robot Kinematics
 - Robotic Manipulation
 
-## Technologies
-
-Python | OpenCV | ROS2 | Moveit | Rviz | Linux | Robotics
 
